@@ -10,7 +10,8 @@ Multimodal fake news detection is a very important topic because fake news has a
 
 From the table, we can observe that our method's accuracy surpasses the CAFE method by 0.022 and the MRML method by 0.094, demonstrating the superiority of our approach.
 
-![Results on Fakeddit dataset](https://github.com/12y3/CMIFNcode/assets/87634436/db39242b-f57d-46fe-a91f-579e1a394fbd)
+![Fake](https://github.com/12y3/CMIFNcode/assets/87634436/47f34804-aff8-49aa-8d50-08e3a6ab44ee)
+
 [1] Y. Wang, F. Ma, Z. Jin, Y. Yuan, G. Xun, K. Jha, L. Su, and J. Gao, “Eann: Event adversarial neural networks for multi-modal fake news detection,” in ACM Sigkdd International Conference on Knowledge Discovery & Data Mining, 2018, pp. 849–857.   
 [2] S. Singhal, R.R. Shah, T. Chakraborty, P. Kumaraguru, and S. Satoh, “Spotfake: A multi-modal framework for fake news detection,” in International Conference on Multimedia Big Data, 2019, pp. 39–47.  
 [3] T. Zhang, D. Wang, H. Chen, Z. Zeng, W. Guo, C. Miao, and L. Cui, “Bdann: Bert-based domain adaptation neural network for multi-modal fake news detection,” in International Joint Conference on Neural Networks, 2020, pp. 1–8.  
